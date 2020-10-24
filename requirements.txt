@@ -1,0 +1,5 @@
+pandas
+pytrends
+matplotlib
+folium
+branca
